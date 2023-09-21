@@ -2,7 +2,7 @@
 
 ## Idea
 
-##  [TechStack](.dokumentation/techStack.md#TechStack)   
+##  [TechStack](.documentation/techStack.md#TechStack)   
 
 ## Authors
 David Kneller
